@@ -17,6 +17,10 @@ const ContactPage = () => {
     {
       name: 'Elon',
       phoneNumber: '089999999986'
+    },
+    {
+      name: 'Izza',
+      phoneNumber: '089999999985'
     }
   ];
 
